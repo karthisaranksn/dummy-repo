@@ -1,1 +1,2 @@
 adding first line to the file
+addding 2nd line to file line.txt
